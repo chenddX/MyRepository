@@ -12,7 +12,10 @@ printf("hello world");
 Console.Writeline("hello world!");
 ```
 
+| items | chendd | chendd |
+| :---: | :----: | :----: |
+|       |        |        |
+|       |        |        |
 
-
-
+<img src="D:\VSproject\PlaneBoom\bin\Debug\GamePictures\background.png" style="zoom:80%;" />
 
